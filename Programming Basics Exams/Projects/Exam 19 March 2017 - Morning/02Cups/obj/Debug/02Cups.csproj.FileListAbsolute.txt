@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Morning\02Cups\bin\Debug\02Cups.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Morning\02Cups\bin\Debug\02Cups.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Morning\02Cups\bin\Debug\02Cups.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Morning\02Cups\obj\Debug\02Cups.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Morning\02Cups\obj\Debug\02Cups.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Morning\02Cups\obj\Debug\02Cups.pdb

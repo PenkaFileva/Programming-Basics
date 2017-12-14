@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\08Sunglasses\bin\Debug\08Sunglasses.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\08Sunglasses\bin\Debug\08Sunglasses.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\08Sunglasses\bin\Debug\08Sunglasses.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\08Sunglasses\obj\Debug\08Sunglasses.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\08Sunglasses\obj\Debug\08Sunglasses.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\08Sunglasses\obj\Debug\08Sunglasses.pdb

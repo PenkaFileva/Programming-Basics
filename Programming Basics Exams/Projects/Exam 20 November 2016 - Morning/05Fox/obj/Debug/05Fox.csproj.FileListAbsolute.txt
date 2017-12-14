@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 20 November 2016 - Morning\05Fox\bin\Debug\05Fox.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 20 November 2016 - Morning\05Fox\bin\Debug\05Fox.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 20 November 2016 - Morning\05Fox\bin\Debug\05Fox.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 20 November 2016 - Morning\05Fox\obj\Debug\05Fox.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 20 November 2016 - Morning\05Fox\obj\Debug\05Fox.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 20 November 2016 - Morning\05Fox\obj\Debug\05Fox.pdb

@@ -1,0 +1,6 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Exam  28 August 2016\01Дневна печалба\bin\Debug\01Дневна печалба.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Exam  28 August 2016\01Дневна печалба\bin\Debug\01Дневна печалба.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam  28 August 2016\01Дневна печалба\bin\Debug\01Дневна печалба.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Exam  28 August 2016\01Дневна печалба\obj\Debug\01Дневна печалба.csprojResolveAssemblyReference.cache
+c:\users\nasko\documents\visual studio 2017\Projects\Exam  28 August 2016\01Дневна печалба\obj\Debug\01Дневна печалба.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam  28 August 2016\01Дневна печалба\obj\Debug\01Дневна печалба.pdb

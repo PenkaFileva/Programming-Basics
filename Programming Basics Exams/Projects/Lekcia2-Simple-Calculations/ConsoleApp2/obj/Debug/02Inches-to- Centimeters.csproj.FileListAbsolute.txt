@@ -1,0 +1,6 @@
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\ConsoleApp2\obj\Debug\02Inches-to- Centimeters.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\02Styrofoam\bin\Debug\02Styrofoam.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\02Styrofoam\bin\Debug\02Styrofoam.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\02Styrofoam\bin\Debug\02Styrofoam.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\02Styrofoam\obj\Debug\02Styrofoam.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\02Styrofoam\obj\Debug\02Styrofoam.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\02Styrofoam\obj\Debug\02Styrofoam.pdb

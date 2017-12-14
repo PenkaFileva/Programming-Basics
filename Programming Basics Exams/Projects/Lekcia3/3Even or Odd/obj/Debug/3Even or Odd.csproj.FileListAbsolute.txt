@@ -1,0 +1,6 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia3\3Even or Odd\obj\Debug\3Even or Odd.csprojResolveAssemblyReference.cache
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia3\3Even or Odd\bin\Debug\3Even or Odd.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia3\3Even or Odd\bin\Debug\3Even or Odd.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia3\3Even or Odd\bin\Debug\3Even or Odd.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia3\3Even or Odd\obj\Debug\3Even or Odd.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia3\3Even or Odd\obj\Debug\3Even or Odd.pdb

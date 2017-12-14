@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\10Diamond\bin\Debug\10Diamond.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\10Diamond\bin\Debug\10Diamond.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\10Diamond\bin\Debug\10Diamond.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\10Diamond\obj\Debug\10Diamond.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\10Diamond\obj\Debug\10Diamond.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\10Diamond\obj\Debug\10Diamond.pdb

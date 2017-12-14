@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\9Day of Week\bin\Debug\9Day of Week.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\9Day of Week\bin\Debug\9Day of Week.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\9Day of Week\bin\Debug\9Day of Week.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\9Day of Week\obj\Debug\9Day of Week.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\9Day of Week\obj\Debug\9Day of Week.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\9Day of Week\obj\Debug\9Day of Week.pdb

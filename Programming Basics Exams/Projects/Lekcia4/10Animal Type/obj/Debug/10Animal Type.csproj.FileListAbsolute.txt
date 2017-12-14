@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\10Animal Type\bin\Debug\10Animal Type.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\10Animal Type\bin\Debug\10Animal Type.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\10Animal Type\bin\Debug\10Animal Type.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\10Animal Type\obj\Debug\10Animal Type.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\10Animal Type\obj\Debug\10Animal Type.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\10Animal Type\obj\Debug\10Animal Type.pdb

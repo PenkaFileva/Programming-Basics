@@ -1,0 +1,6 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 18 March 2017\02Work hours\bin\Debug\02Work hours.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 18 March 2017\02Work hours\bin\Debug\02Work hours.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 18 March 2017\02Work hours\bin\Debug\02Work hours.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 18 March 2017\02Work hours\obj\Debug\02Work hours.csprojResolveAssemblyReference.cache
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 18 March 2017\02Work hours\obj\Debug\02Work hours.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 18 March 2017\02Work hours\obj\Debug\02Work hours.pdb

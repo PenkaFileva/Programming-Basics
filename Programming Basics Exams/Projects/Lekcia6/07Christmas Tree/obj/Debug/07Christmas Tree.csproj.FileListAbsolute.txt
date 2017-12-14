@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\07Christmas Tree\bin\Debug\07Christmas Tree.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\07Christmas Tree\bin\Debug\07Christmas Tree.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\07Christmas Tree\bin\Debug\07Christmas Tree.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\07Christmas Tree\obj\Debug\07Christmas Tree.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\07Christmas Tree\obj\Debug\07Christmas Tree.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\07Christmas Tree\obj\Debug\07Christmas Tree.pdb

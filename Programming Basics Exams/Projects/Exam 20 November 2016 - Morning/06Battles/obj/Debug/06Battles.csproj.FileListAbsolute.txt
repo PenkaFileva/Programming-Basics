@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 20 November 2016 - Morning\06Battles\bin\Debug\06Battles.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 20 November 2016 - Morning\06Battles\bin\Debug\06Battles.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 20 November 2016 - Morning\06Battles\bin\Debug\06Battles.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 20 November 2016 - Morning\06Battles\obj\Debug\06Battles.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 20 November 2016 - Morning\06Battles\obj\Debug\06Battles.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 20 November 2016 - Morning\06Battles\obj\Debug\06Battles.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\09Celsius to Fahrenheit\bin\Debug\09Celsius to Fahrenheit.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\09Celsius to Fahrenheit\bin\Debug\09Celsius to Fahrenheit.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\09Celsius to Fahrenheit\bin\Debug\09Celsius to Fahrenheit.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\09Celsius to Fahrenheit\obj\Debug\09Celsius to Fahrenheit.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\09Celsius to Fahrenheit\obj\Debug\09Celsius to Fahrenheit.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\09Celsius to Fahrenheit\obj\Debug\09Celsius to Fahrenheit.pdb

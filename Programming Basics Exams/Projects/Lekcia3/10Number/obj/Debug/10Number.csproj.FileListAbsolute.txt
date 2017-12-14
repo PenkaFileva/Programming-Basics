@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\10Number\bin\Debug\10Number.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\10Number\bin\Debug\10Number.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\10Number\bin\Debug\10Number.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\10Number\obj\Debug\10Number.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\10Number\obj\Debug\10Number.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\10Number\obj\Debug\10Number.pdb

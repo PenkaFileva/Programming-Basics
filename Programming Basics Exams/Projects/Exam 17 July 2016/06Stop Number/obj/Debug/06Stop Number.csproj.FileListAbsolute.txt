@@ -1,0 +1,5 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 17 July 2016\06Stop Number\bin\Debug\06Stop Number.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 17 July 2016\06Stop Number\bin\Debug\06Stop Number.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 17 July 2016\06Stop Number\bin\Debug\06Stop Number.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 17 July 2016\06Stop Number\obj\Debug\06Stop Number.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 17 July 2016\06Stop Number\obj\Debug\06Stop Number.pdb

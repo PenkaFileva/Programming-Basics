@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\05Crown\bin\Debug\05Crown.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\05Crown\bin\Debug\05Crown.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\05Crown\bin\Debug\05Crown.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\05Crown\obj\Debug\05Crown.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\05Crown\obj\Debug\05Crown.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\05Crown\obj\Debug\05Crown.pdb

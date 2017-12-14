@@ -1,0 +1,6 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 25 Juny 2017\06\bin\Debug\06.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 25 Juny 2017\06\bin\Debug\06.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 25 Juny 2017\06\bin\Debug\06.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 25 Juny 2017\06\obj\Debug\06.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 25 Juny 2017\06\obj\Debug\06.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 25 Juny 2017\06\obj\Debug\06.csprojResolveAssemblyReference.cache

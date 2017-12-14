@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\4Fruit or Vegetable\bin\Debug\4Fruit or Vegetable.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\4Fruit or Vegetable\bin\Debug\4Fruit or Vegetable.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\4Fruit or Vegetable\bin\Debug\4Fruit or Vegetable.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\4Fruit or Vegetable\obj\Debug\4Fruit or Vegetable.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\4Fruit or Vegetable\obj\Debug\4Fruit or Vegetable.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\4Fruit or Vegetable\obj\Debug\4Fruit or Vegetable.pdb

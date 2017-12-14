@@ -1,0 +1,6 @@
+C:\Users\Nasko\documents\visual studio 2017\Projects\Loop in loop\04Специални числа\bin\Debug\04Специални числа.exe.config
+C:\Users\Nasko\documents\visual studio 2017\Projects\Loop in loop\04Специални числа\bin\Debug\04Специални числа.exe
+C:\Users\Nasko\documents\visual studio 2017\Projects\Loop in loop\04Специални числа\bin\Debug\04Специални числа.pdb
+C:\Users\Nasko\documents\visual studio 2017\Projects\Loop in loop\04Специални числа\obj\Debug\04Специални числа.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\documents\visual studio 2017\Projects\Loop in loop\04Специални числа\obj\Debug\04Специални числа.exe
+C:\Users\Nasko\documents\visual studio 2017\Projects\Loop in loop\04Специални числа\obj\Debug\04Специални числа.pdb

@@ -1,0 +1,5 @@
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\05Trapeziod Area\bin\Debug\05Trapeziod Area.exe.config
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\05Trapeziod Area\bin\Debug\05Trapeziod Area.exe
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\05Trapeziod Area\bin\Debug\05Trapeziod Area.pdb
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\05Trapeziod Area\obj\Debug\05Trapeziod Area.exe
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\05Trapeziod Area\obj\Debug\05Trapeziod Area.pdb

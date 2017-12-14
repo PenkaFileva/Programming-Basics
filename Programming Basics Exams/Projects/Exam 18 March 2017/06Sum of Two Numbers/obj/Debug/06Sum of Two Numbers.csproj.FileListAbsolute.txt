@@ -1,0 +1,5 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 18 March 2017\06Sum of Two Numbers\bin\Debug\06Sum of Two Numbers.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 18 March 2017\06Sum of Two Numbers\bin\Debug\06Sum of Two Numbers.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 18 March 2017\06Sum of Two Numbers\bin\Debug\06Sum of Two Numbers.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 18 March 2017\06Sum of Two Numbers\obj\Debug\06Sum of Two Numbers.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 18 March 2017\06Sum of Two Numbers\obj\Debug\06Sum of Two Numbers.pdb

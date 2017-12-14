@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\04Пеперуда\bin\Debug\04Пеперуда.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\04Пеперуда\bin\Debug\04Пеперуда.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\04Пеперуда\bin\Debug\04Пеперуда.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\04Пеперуда\obj\Debug\04Пеперуда.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\04Пеперуда\obj\Debug\04Пеперуда.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\04Пеперуда\obj\Debug\04Пеперуда.pdb

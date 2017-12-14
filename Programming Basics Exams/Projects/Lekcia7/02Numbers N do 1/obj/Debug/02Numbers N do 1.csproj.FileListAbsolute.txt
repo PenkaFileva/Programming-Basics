@@ -1,0 +1,6 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia7\02Numbers N do 1\bin\Debug\02Numbers N do 1.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia7\02Numbers N do 1\bin\Debug\02Numbers N do 1.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia7\02Numbers N do 1\bin\Debug\02Numbers N do 1.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia7\02Numbers N do 1\obj\Debug\02Numbers N do 1.csprojResolveAssemblyReference.cache
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia7\02Numbers N do 1\obj\Debug\02Numbers N do 1.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia7\02Numbers N do 1\obj\Debug\02Numbers N do 1.pdb

@@ -1,0 +1,5 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\5Invalid Number1\bin\Debug\5Invalid Number1.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\5Invalid Number1\bin\Debug\5Invalid Number1.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\5Invalid Number1\bin\Debug\5Invalid Number1.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\5Invalid Number1\obj\Debug\5Invalid Number1.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\5Invalid Number1\obj\Debug\5Invalid Number1.pdb

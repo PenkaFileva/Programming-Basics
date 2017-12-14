@@ -1,0 +1,5 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Exam  28 August 2016\06Цифри\bin\Debug\06Цифри.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Exam  28 August 2016\06Цифри\bin\Debug\06Цифри.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam  28 August 2016\06Цифри\bin\Debug\06Цифри.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Exam  28 August 2016\06Цифри\obj\Debug\06Цифри.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam  28 August 2016\06Цифри\obj\Debug\06Цифри.pdb

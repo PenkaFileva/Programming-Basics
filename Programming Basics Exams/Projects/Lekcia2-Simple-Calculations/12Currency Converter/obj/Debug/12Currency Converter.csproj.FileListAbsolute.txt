@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\12Currency Converter\bin\Debug\12Currency Converter.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\12Currency Converter\bin\Debug\12Currency Converter.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\12Currency Converter\bin\Debug\12Currency Converter.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\12Currency Converter\obj\Debug\12Currency Converter.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\12Currency Converter\obj\Debug\12Currency Converter.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\12Currency Converter\obj\Debug\12Currency Converter.pdb

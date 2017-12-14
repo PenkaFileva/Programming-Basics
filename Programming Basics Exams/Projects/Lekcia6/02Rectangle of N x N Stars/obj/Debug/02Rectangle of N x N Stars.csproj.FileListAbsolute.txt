@@ -1,0 +1,5 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\02Rectangle of N x N Stars\bin\Debug\02Rectangle of N x N Stars.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\02Rectangle of N x N Stars\bin\Debug\02Rectangle of N x N Stars.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\02Rectangle of N x N Stars\bin\Debug\02Rectangle of N x N Stars.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\02Rectangle of N x N Stars\obj\Debug\02Rectangle of N x N Stars.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\02Rectangle of N x N Stars\obj\Debug\02Rectangle of N x N Stars.pdb

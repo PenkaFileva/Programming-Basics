@@ -1,0 +1,5 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia7\04Even Powers of 2\bin\Debug\04Even Powers of 2.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia7\04Even Powers of 2\bin\Debug\04Even Powers of 2.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia7\04Even Powers of 2\bin\Debug\04Even Powers of 2.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia7\04Even Powers of 2\obj\Debug\04Even Powers of 2.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia7\04Even Powers of 2\obj\Debug\04Even Powers of 2.pdb

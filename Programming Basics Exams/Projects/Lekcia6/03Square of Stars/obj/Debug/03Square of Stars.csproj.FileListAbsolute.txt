@@ -1,0 +1,5 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\03Square of Stars\bin\Debug\03Square of Stars.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\03Square of Stars\bin\Debug\03Square of Stars.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\03Square of Stars\bin\Debug\03Square of Stars.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\03Square of Stars\obj\Debug\03Square of Stars.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\03Square of Stars\obj\Debug\03Square of Stars.pdb

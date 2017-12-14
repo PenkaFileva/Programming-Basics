@@ -1,0 +1,5 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\6Point on Rectangle Border\bin\Debug\6Point on Rectangle Border.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\6Point on Rectangle Border\bin\Debug\6Point on Rectangle Border.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\6Point on Rectangle Border\bin\Debug\6Point on Rectangle Border.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\6Point on Rectangle Border\obj\Debug\6Point on Rectangle Border.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\6Point on Rectangle Border\obj\Debug\6Point on Rectangle Border.pdb

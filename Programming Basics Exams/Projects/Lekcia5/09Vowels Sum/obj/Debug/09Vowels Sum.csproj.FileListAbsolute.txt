@@ -1,0 +1,6 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\09Vowels Sum\bin\Debug\09Vowels Sum.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\09Vowels Sum\bin\Debug\09Vowels Sum.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\09Vowels Sum\bin\Debug\09Vowels Sum.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\09Vowels Sum\obj\Debug\09Vowels Sum.csprojResolveAssemblyReference.cache
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\09Vowels Sum\obj\Debug\09Vowels Sum.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\09Vowels Sum\obj\Debug\09Vowels Sum.pdb

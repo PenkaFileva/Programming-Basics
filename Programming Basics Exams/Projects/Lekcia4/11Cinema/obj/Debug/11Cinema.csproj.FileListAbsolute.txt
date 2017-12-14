@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\11Cinema\bin\Debug\11Cinema.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\11Cinema\bin\Debug\11Cinema.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\11Cinema\bin\Debug\11Cinema.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\11Cinema\obj\Debug\11Cinema.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\11Cinema\obj\Debug\11Cinema.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\11Cinema\obj\Debug\11Cinema.pdb

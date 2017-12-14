@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\04Bills\bin\Debug\04Bills.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\04Bills\bin\Debug\04Bills.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\04Bills\bin\Debug\04Bills.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\04Bills\obj\Debug\04Bills.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\04Bills\obj\Debug\04Bills.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\04Bills\obj\Debug\04Bills.pdb

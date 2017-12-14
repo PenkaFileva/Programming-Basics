@@ -1,0 +1,5 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\04Sum Numbers\bin\Debug\04Sum Numbers.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\04Sum Numbers\bin\Debug\04Sum Numbers.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\04Sum Numbers\bin\Debug\04Sum Numbers.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\04Sum Numbers\obj\Debug\04Sum Numbers.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\04Sum Numbers\obj\Debug\04Sum Numbers.pdb

@@ -1,0 +1,5 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Exam  28 August 2016\02Фирма\bin\Debug\02Фирма.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Exam  28 August 2016\02Фирма\bin\Debug\02Фирма.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam  28 August 2016\02Фирма\bin\Debug\02Фирма.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Exam  28 August 2016\02Фирма\obj\Debug\02Фирма.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam  28 August 2016\02Фирма\obj\Debug\02Фирма.pdb

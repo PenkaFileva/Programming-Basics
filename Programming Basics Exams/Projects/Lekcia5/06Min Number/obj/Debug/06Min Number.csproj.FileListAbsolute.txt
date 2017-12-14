@@ -1,0 +1,5 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\06Min Number\bin\Debug\06Min Number.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\06Min Number\bin\Debug\06Min Number.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\06Min Number\bin\Debug\06Min Number.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\06Min Number\obj\Debug\06Min Number.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\06Min Number\obj\Debug\06Min Number.pdb

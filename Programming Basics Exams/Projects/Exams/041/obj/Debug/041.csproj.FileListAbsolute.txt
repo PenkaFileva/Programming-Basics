@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\041\bin\Debug\041.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\041\bin\Debug\041.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\041\bin\Debug\041.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\041\obj\Debug\041.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\041\obj\Debug\041.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\041\obj\Debug\041.pdb

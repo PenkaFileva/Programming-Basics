@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\12Change Tiles\bin\Debug\12Change Tiles.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\12Change Tiles\bin\Debug\12Change Tiles.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\12Change Tiles\bin\Debug\12Change Tiles.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\12Change Tiles\obj\Debug\12Change Tiles 18 December 2016.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\12Change Tiles\obj\Debug\12Change Tiles.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\12Change Tiles\obj\Debug\12Change Tiles.pdb

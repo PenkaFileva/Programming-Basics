@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\06Control Number\bin\Debug\06Control Number.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\06Control Number\bin\Debug\06Control Number.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\06Control Number\bin\Debug\06Control Number.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\06Control Number\obj\Debug\06Control Number.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\06Control Number\obj\Debug\06Control Number.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\06Control Number\obj\Debug\06Control Number.pdb

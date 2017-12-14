@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\7Sum Seconds\bin\Debug\7Sum Seconds.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\7Sum Seconds\bin\Debug\7Sum Seconds.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\7Sum Seconds\bin\Debug\7Sum Seconds.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\7Sum Seconds\obj\Debug\7Sum Seconds.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\7Sum Seconds\obj\Debug\7Sum Seconds.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\7Sum Seconds\obj\Debug\7Sum Seconds.pdb

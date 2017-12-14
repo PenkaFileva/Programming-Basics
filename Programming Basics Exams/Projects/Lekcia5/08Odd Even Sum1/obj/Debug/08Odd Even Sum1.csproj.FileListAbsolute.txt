@@ -1,0 +1,5 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\08Odd Even Sum1\bin\Debug\08Odd Even Sum1.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\08Odd Even Sum1\bin\Debug\08Odd Even Sum1.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\08Odd Even Sum1\bin\Debug\08Odd Even Sum1.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\08Odd Even Sum1\obj\Debug\08Odd Even Sum1.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\08Odd Even Sum1\obj\Debug\08Odd Even Sum1.pdb

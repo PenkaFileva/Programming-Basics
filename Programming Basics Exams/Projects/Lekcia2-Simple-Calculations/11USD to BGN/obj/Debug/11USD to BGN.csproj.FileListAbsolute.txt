@@ -1,0 +1,5 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\11USD to BGN\bin\Debug\11USD to BGN.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\11USD to BGN\bin\Debug\11USD to BGN.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\11USD to BGN\bin\Debug\11USD to BGN.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\11USD to BGN\obj\Debug\11USD to BGN.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\11USD to BGN\obj\Debug\11USD to BGN.pdb

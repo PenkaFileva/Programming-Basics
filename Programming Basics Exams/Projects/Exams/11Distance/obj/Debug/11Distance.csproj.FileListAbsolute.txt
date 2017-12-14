@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\11Distance\bin\Debug\11Distance.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\11Distance\bin\Debug\11Distance.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\11Distance\bin\Debug\11Distance.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\11Distance\obj\Debug\11Distance.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\11Distance\obj\Debug\11Distance.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\11Distance\obj\Debug\11Distance.pdb

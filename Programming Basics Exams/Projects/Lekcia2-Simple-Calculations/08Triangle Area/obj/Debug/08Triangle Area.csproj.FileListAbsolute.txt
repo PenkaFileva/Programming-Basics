@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\08Triangle Area\bin\Debug\08Triangle Area.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\08Triangle Area\bin\Debug\08Triangle Area.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\08Triangle Area\bin\Debug\08Triangle Area.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\08Triangle Area\obj\Debug\08Triangle Area.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\08Triangle Area\obj\Debug\08Triangle Area.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\08Triangle Area\obj\Debug\08Triangle Area.pdb

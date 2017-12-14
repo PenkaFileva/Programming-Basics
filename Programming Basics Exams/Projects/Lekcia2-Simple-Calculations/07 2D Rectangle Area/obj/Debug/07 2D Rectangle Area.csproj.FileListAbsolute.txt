@@ -1,0 +1,6 @@
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\07 2D Rectangle Area\bin\Debug\07 2D Rectangle Area.exe.config
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\07 2D Rectangle Area\bin\Debug\07 2D Rectangle Area.exe
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\07 2D Rectangle Area\bin\Debug\07 2D Rectangle Area.pdb
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\07 2D Rectangle Area\obj\Debug\07 2D Rectangle Area.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\07 2D Rectangle Area\obj\Debug\07 2D Rectangle Area.exe
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\07 2D Rectangle Area\obj\Debug\07 2D Rectangle Area.pdb

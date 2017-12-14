@@ -1,0 +1,6 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Loop in loop\01Letters Combinations\bin\Debug\01Letters Combinations.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Loop in loop\01Letters Combinations\bin\Debug\01Letters Combinations.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Loop in loop\01Letters Combinations\bin\Debug\01Letters Combinations.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Loop in loop\01Letters Combinations\obj\Debug\01Letters Combinations.csprojResolveAssemblyReference.cache
+c:\users\nasko\documents\visual studio 2017\Projects\Loop in loop\01Letters Combinations\obj\Debug\01Letters Combinations.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Loop in loop\01Letters Combinations\obj\Debug\01Letters Combinations.pdb

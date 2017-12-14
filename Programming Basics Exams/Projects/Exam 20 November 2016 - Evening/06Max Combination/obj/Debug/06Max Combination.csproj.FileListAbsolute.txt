@@ -1,0 +1,5 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Evening\06Max Combination\bin\Debug\06Max Combination.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Evening\06Max Combination\bin\Debug\06Max Combination.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Evening\06Max Combination\bin\Debug\06Max Combination.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Evening\06Max Combination\obj\Debug\06Max Combination.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Evening\06Max Combination\obj\Debug\06Max Combination.pdb

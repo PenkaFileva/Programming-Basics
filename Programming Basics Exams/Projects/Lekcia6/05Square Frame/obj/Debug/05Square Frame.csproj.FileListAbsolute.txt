@@ -1,0 +1,6 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\05Square Frame\bin\Debug\05Square Frame.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\05Square Frame\bin\Debug\05Square Frame.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\05Square Frame\bin\Debug\05Square Frame.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\05Square Frame\obj\Debug\05Square Frame.csprojResolveAssemblyReference.cache
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\05Square Frame\obj\Debug\05Square Frame.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\05Square Frame\obj\Debug\05Square Frame.pdb

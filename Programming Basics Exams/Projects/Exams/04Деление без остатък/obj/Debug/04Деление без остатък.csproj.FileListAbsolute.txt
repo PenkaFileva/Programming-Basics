@@ -1,0 +1,5 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\04Деление без остатък\bin\Debug\04Деление без остатък.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\04Деление без остатък\bin\Debug\04Деление без остатък.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\04Деление без остатък\bin\Debug\04Деление без остатък.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\04Деление без остатък\obj\Debug\04Деление без остатък.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\04Деление без остатък\obj\Debug\04Деление без остатък.pdb

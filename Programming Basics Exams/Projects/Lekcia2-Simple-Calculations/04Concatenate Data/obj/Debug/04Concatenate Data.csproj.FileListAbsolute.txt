@@ -1,0 +1,5 @@
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\04Concatenate Data\bin\Debug\04Concatenate Data.exe.config
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\04Concatenate Data\bin\Debug\04Concatenate Data.exe
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\04Concatenate Data\bin\Debug\04Concatenate Data.pdb
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\04Concatenate Data\obj\Debug\04Concatenate Data.exe
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\04Concatenate Data\obj\Debug\04Concatenate Data.pdb

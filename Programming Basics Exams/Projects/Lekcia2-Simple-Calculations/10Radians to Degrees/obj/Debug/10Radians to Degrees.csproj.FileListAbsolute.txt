@@ -1,0 +1,5 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\10Radians to Degrees\bin\Debug\10Radians to Degrees.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\10Radians to Degrees\bin\Debug\10Radians to Degrees.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\10Radians to Degrees\bin\Debug\10Radians to Degrees.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\10Radians to Degrees\obj\Debug\10Radians to Degrees.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia2-Simple-Calculations\10Radians to Degrees\obj\Debug\10Radians to Degrees.pdb

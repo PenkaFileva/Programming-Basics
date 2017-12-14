@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\02Christmas Hat\bin\Debug\02Christmas Hat.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\02Christmas Hat\bin\Debug\02Christmas Hat.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\02Christmas Hat\bin\Debug\02Christmas Hat.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\02Christmas Hat\obj\Debug\02Christmas Hat.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\02Christmas Hat\obj\Debug\02Christmas Hat.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\02Christmas Hat\obj\Debug\02Christmas Hat.pdb

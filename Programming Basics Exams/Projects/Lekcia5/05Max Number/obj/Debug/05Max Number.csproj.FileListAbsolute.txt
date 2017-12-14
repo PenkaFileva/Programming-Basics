@@ -1,0 +1,5 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\05Max Number\bin\Debug\05Max Number.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\05Max Number\bin\Debug\05Max Number.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\05Max Number\bin\Debug\05Max Number.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\05Max Number\obj\Debug\05Max Number.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\05Max Number\obj\Debug\05Max Number.pdb

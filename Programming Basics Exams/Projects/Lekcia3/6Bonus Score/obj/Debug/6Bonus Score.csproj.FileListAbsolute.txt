@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\6Bonus Score\bin\Debug\6Bonus Score.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\6Bonus Score\bin\Debug\6Bonus Score.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\6Bonus Score\bin\Debug\6Bonus Score.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\6Bonus Score\obj\Debug\6Bonus Score.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\6Bonus Score\obj\Debug\6Bonus Score.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\6Bonus Score\obj\Debug\6Bonus Score.pdb

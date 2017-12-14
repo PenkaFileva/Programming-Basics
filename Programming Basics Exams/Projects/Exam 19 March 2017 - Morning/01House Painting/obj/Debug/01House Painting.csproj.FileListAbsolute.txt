@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Morning\01House Painting\bin\Debug\01House Painting.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Morning\01House Painting\bin\Debug\01House Painting.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Morning\01House Painting\bin\Debug\01House Painting.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Morning\01House Painting\obj\Debug\01House Painting.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Morning\01House Painting\obj\Debug\01House Painting.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Morning\01House Painting\obj\Debug\01House Painting.pdb

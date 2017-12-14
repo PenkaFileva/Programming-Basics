@@ -1,0 +1,6 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia7\12Fibonacci\bin\Debug\12Fibonacci.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia7\12Fibonacci\bin\Debug\12Fibonacci.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia7\12Fibonacci\bin\Debug\12Fibonacci.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia7\12Fibonacci\obj\Debug\12Fibonacci.csprojResolveAssemblyReference.cache
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia7\12Fibonacci\obj\Debug\12Fibonacci.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia7\12Fibonacci\obj\Debug\12Fibonacci.pdb

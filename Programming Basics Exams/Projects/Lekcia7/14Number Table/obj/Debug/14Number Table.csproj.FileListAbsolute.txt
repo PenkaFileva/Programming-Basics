@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\14Number Table\bin\Debug\14Number Table.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\14Number Table\bin\Debug\14Number Table.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\14Number Table\bin\Debug\14Number Table.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\14Number Table\obj\Debug\14Number Table.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\14Number Table\obj\Debug\14Number Table.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\14Number Table\obj\Debug\14Number Table.pdb

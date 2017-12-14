@@ -1,0 +1,6 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Morning\02Pets\bin\Debug\02Pets.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Morning\02Pets\bin\Debug\02Pets.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Morning\02Pets\bin\Debug\02Pets.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Morning\02Pets\obj\Debug\02Pets.csprojResolveAssemblyReference.cache
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Morning\02Pets\obj\Debug\02Pets.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Morning\02Pets\obj\Debug\02Pets.pdb

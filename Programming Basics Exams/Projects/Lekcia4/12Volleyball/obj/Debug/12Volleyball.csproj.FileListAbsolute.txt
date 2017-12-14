@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\12Volleyball\bin\Debug\12Volleyball.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\12Volleyball\bin\Debug\12Volleyball.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\12Volleyball\bin\Debug\12Volleyball.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\12Volleyball\obj\Debug\12Volleyball.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\12Volleyball\obj\Debug\12Volleyball.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\12Volleyball\obj\Debug\12Volleyball.pdb

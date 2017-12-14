@@ -1,0 +1,6 @@
+C:\Users\Nasko\documents\visual studio 2017\Projects\Exams\051Операции между числа 24 April 2016\bin\Debug\051Операции между числа 24 April 2016.exe.config
+C:\Users\Nasko\documents\visual studio 2017\Projects\Exams\051Операции между числа 24 April 2016\bin\Debug\051Операции между числа 24 April 2016.exe
+C:\Users\Nasko\documents\visual studio 2017\Projects\Exams\051Операции между числа 24 April 2016\bin\Debug\051Операции между числа 24 April 2016.pdb
+C:\Users\Nasko\documents\visual studio 2017\Projects\Exams\051Операции между числа 24 April 2016\obj\Debug\051Операции между числа 24 April 2016.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\documents\visual studio 2017\Projects\Exams\051Операции между числа 24 April 2016\obj\Debug\051Операции между числа 24 April 2016.exe
+C:\Users\Nasko\documents\visual studio 2017\Projects\Exams\051Операции между числа 24 April 2016\obj\Debug\051Операции между числа 24 April 2016.pdb

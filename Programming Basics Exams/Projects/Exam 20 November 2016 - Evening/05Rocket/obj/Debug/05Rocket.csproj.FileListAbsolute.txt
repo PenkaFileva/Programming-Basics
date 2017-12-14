@@ -1,0 +1,5 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Evening\05Rocket\bin\Debug\05Rocket.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Evening\05Rocket\bin\Debug\05Rocket.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Evening\05Rocket\bin\Debug\05Rocket.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Evening\05Rocket\obj\Debug\05Rocket.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Evening\05Rocket\obj\Debug\05Rocket.pdb

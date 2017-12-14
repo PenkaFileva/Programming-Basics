@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\02 School Camp 7 May 2017\bin\Debug\02 School Camp 7 May 2017.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\02 School Camp 7 May 2017\bin\Debug\02 School Camp 7 May 2017.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\02 School Camp 7 May 2017\bin\Debug\02 School Camp 7 May 2017.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\02 School Camp 7 May 2017\obj\Debug\02 School Camp 7 May 2017.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\02 School Camp 7 May 2017\obj\Debug\02 School Camp 7 May 2017.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\02 School Camp 7 May 2017\obj\Debug\02 School Camp 7 May 2017.pdb

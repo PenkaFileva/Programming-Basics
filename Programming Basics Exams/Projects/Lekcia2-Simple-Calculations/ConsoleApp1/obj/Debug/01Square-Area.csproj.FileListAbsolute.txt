@@ -1,0 +1,6 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\ConsoleApp1\obj\Debug\01Square-Area.csprojResolveAssemblyReference.cache
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

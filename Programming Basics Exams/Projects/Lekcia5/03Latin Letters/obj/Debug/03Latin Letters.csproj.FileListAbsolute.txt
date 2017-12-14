@@ -1,0 +1,5 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\03Latin Letters\bin\Debug\03Latin Letters.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\03Latin Letters\bin\Debug\03Latin Letters.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\03Latin Letters\bin\Debug\03Latin Letters.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\03Latin Letters\obj\Debug\03Latin Letters.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\03Latin Letters\obj\Debug\03Latin Letters.pdb

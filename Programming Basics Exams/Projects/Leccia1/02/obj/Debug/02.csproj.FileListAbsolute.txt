@@ -1,0 +1,5 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Leccia1\02\bin\Debug\02.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Leccia1\02\bin\Debug\02.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Leccia1\02\bin\Debug\02.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Leccia1\02\obj\Debug\02.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Leccia1\02\obj\Debug\02.pdb

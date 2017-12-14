@@ -1,0 +1,6 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 19 March 2017 - Evening\05 Parallelepiped\bin\Debug\05 Parallelepiped.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 19 March 2017 - Evening\05 Parallelepiped\bin\Debug\05 Parallelepiped.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 19 March 2017 - Evening\05 Parallelepiped\bin\Debug\05 Parallelepiped.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 19 March 2017 - Evening\05 Parallelepiped\obj\Debug\05 Parallelepiped.csprojResolveAssemblyReference.cache
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 19 March 2017 - Evening\05 Parallelepiped\obj\Debug\05 Parallelepiped.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 19 March 2017 - Evening\05 Parallelepiped\obj\Debug\05 Parallelepiped.pdb

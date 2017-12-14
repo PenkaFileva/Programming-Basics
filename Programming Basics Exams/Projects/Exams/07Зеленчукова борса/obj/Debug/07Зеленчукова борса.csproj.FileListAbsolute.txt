@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\07Зеленчукова борса\bin\Debug\07Зеленчукова борса.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\07Зеленчукова борса\bin\Debug\07Зеленчукова борса.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\07Зеленчукова борса\bin\Debug\07Зеленчукова борса.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\07Зеленчукова борса\obj\Debug\07Зеленчукова борса.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\07Зеленчукова борса\obj\Debug\07Зеленчукова борса.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\07Зеленчукова борса\obj\Debug\07Зеленчукова борса.pdb

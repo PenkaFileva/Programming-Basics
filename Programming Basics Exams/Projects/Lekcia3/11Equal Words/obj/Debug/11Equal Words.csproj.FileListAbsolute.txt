@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\11Equal Words\bin\Debug\11Equal Words.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\11Equal Words\bin\Debug\11Equal Words.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\11Equal Words\bin\Debug\11Equal Words.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\11Equal Words\obj\Debug\11Equal Words.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\11Equal Words\obj\Debug\11Equal Words.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\11Equal Words\obj\Debug\11Equal Words.pdb

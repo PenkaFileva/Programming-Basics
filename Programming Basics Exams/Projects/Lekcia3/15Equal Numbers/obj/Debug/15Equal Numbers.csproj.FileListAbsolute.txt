@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\15Equal Numbers\bin\Debug\15Equal Numbers.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\15Equal Numbers\bin\Debug\15Equal Numbers.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\15Equal Numbers\bin\Debug\15Equal Numbers.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\15Equal Numbers\obj\Debug\15Equal Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\15Equal Numbers\obj\Debug\15Equal Numbers.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\15Equal Numbers\obj\Debug\15Equal Numbers.pdb

@@ -1,0 +1,5 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\12Speed Info\bin\Debug\12Speed Info.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\12Speed Info\bin\Debug\12Speed Info.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\12Speed Info\bin\Debug\12Speed Info.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\12Speed Info\obj\Debug\12Speed Info.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\12Speed Info\obj\Debug\12Speed Info.pdb

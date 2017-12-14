@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\03Draw Fort\bin\Debug\03Draw Fort.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\03Draw Fort\bin\Debug\03Draw Fort.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\03Draw Fort\bin\Debug\03Draw Fort.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\03Draw Fort\obj\Debug\03Draw Fort.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\03Draw Fort\obj\Debug\03Draw Fort.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams Draw with loops\03Draw Fort\obj\Debug\03Draw Fort.pdb

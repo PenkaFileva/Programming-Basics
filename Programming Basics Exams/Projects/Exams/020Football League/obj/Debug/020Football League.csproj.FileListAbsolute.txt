@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\020Football League\bin\Debug\020Football League.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\020Football League\bin\Debug\020Football League.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\020Football League\bin\Debug\020Football League.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\020Football League\obj\Debug\020Football League.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\020Football League\obj\Debug\020Football League.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\020Football League\obj\Debug\020Football League.pdb

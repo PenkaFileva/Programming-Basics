@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\06Тръби в басейн\bin\Debug\06Тръби в басейн.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\06Тръби в басейн\bin\Debug\06Тръби в басейн.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\06Тръби в басейн\bin\Debug\06Тръби в басейн.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\06Тръби в басейн\obj\Debug\06Тръби в басейн 26 Mart 2016.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\06Тръби в басейн\obj\Debug\06Тръби в басейн.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\06Тръби в басейн\obj\Debug\06Тръби в басейн.pdb

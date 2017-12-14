@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\09House\bin\Debug\09House.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\09House\bin\Debug\09House.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\09House\bin\Debug\09House.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\09House\obj\Debug\09House.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\09House\obj\Debug\09House.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia6\09House\obj\Debug\09House.pdb

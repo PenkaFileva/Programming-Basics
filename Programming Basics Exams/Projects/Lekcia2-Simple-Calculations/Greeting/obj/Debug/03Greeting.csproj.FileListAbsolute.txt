@@ -1,0 +1,5 @@
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\Greeting\bin\Debug\Greeting.exe.config
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\Greeting\bin\Debug\Greeting.exe
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\Greeting\bin\Debug\Greeting.pdb
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\Greeting\obj\Debug\Greeting.exe
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia2-Simple-Calculations\Greeting\obj\Debug\Greeting.pdb

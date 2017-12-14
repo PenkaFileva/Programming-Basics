@@ -1,0 +1,6 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Evening\03Bike Race\bin\Debug\03Bike Race.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Evening\03Bike Race\bin\Debug\03Bike Race.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Evening\03Bike Race\bin\Debug\03Bike Race.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Evening\03Bike Race\obj\Debug\03Bike Race.csprojResolveAssemblyReference.cache
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Evening\03Bike Race\obj\Debug\03Bike Race.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Evening\03Bike Race\obj\Debug\03Bike Race.pdb

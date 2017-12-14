@@ -1,0 +1,6 @@
+C:\Users\Nasko\documents\visual studio 2017\Projects\Leccia1\06\bin\Debug\06.exe.config
+C:\Users\Nasko\documents\visual studio 2017\Projects\Leccia1\06\bin\Debug\06.exe
+C:\Users\Nasko\documents\visual studio 2017\Projects\Leccia1\06\bin\Debug\06.pdb
+C:\Users\Nasko\documents\visual studio 2017\Projects\Leccia1\06\obj\Debug\06.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\documents\visual studio 2017\Projects\Leccia1\06\obj\Debug\06.exe
+C:\Users\Nasko\documents\visual studio 2017\Projects\Leccia1\06\obj\Debug\06.pdb

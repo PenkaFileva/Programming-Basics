@@ -1,0 +1,6 @@
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia5\11 Odd  Even Position\bin\Debug\11 Odd  Even Position.exe.config
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia5\11 Odd  Even Position\bin\Debug\11 Odd  Even Position.exe
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia5\11 Odd  Even Position\bin\Debug\11 Odd  Even Position.pdb
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia5\11 Odd  Even Position\obj\Debug\11 Odd  Even Position.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia5\11 Odd  Even Position\obj\Debug\11 Odd  Even Position.exe
+C:\Users\Nasko\documents\visual studio 2017\Projects\Lekcia5\11 Odd  Even Position\obj\Debug\11 Odd  Even Position.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Morning\04Trainers Salary\bin\Debug\04Trainers Salary.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Morning\04Trainers Salary\bin\Debug\04Trainers Salary.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Morning\04Trainers Salary\bin\Debug\04Trainers Salary.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Morning\04Trainers Salary\obj\Debug\04Trainers Salary.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Morning\04Trainers Salary\obj\Debug\04Trainers Salary.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Morning\04Trainers Salary\obj\Debug\04Trainers Salary.pdb

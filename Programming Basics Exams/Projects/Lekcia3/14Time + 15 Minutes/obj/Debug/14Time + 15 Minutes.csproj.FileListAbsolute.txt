@@ -1,0 +1,5 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\14Time + 15 Minutes\bin\Debug\14Time + 15 Minutes.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\14Time + 15 Minutes\bin\Debug\14Time + 15 Minutes.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\14Time + 15 Minutes\bin\Debug\14Time + 15 Minutes.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\14Time + 15 Minutes\obj\Debug\14Time + 15 Minutes.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\14Time + 15 Minutes\obj\Debug\14Time + 15 Minutes.pdb

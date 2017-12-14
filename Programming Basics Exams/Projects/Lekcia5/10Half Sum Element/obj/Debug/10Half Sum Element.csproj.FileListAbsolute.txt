@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia5\10Half Sum Element\bin\Debug\10Half Sum Element.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia5\10Half Sum Element\bin\Debug\10Half Sum Element.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia5\10Half Sum Element\bin\Debug\10Half Sum Element.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia5\10Half Sum Element\obj\Debug\10Half Sum Element.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia5\10Half Sum Element\obj\Debug\10Half Sum Element.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia5\10Half Sum Element\obj\Debug\10Half Sum Element.pdb

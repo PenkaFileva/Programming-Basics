@@ -1,0 +1,6 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\06Rhombus of Stars\bin\Debug\06Rhombus of Stars.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\06Rhombus of Stars\bin\Debug\06Rhombus of Stars.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\06Rhombus of Stars\bin\Debug\06Rhombus of Stars.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\06Rhombus of Stars\obj\Debug\06Rhombus of Stars.csprojResolveAssemblyReference.cache
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\06Rhombus of Stars\obj\Debug\06Rhombus of Stars.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\06Rhombus of Stars\obj\Debug\06Rhombus of Stars.pdb

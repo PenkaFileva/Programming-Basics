@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\04 3Поспаливата котка Том\bin\Debug\04 3Поспаливата котка Том.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\04 3Поспаливата котка Том\bin\Debug\04 3Поспаливата котка Том.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\04 3Поспаливата котка Том\bin\Debug\04 3Поспаливата котка Том.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\04 3Поспаливата котка Том\obj\Debug\04 3Поспаливата котка Том.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\04 3Поспаливата котка Том\obj\Debug\04 3Поспаливата котка Том.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\04 3Поспаливата котка Том\obj\Debug\04 3Поспаливата котка Том.pdb

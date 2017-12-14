@@ -1,0 +1,5 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\07Greatest Common Divisor (CGD)\bin\Debug\07Greatest Common Divisor (CGD).exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\07Greatest Common Divisor (CGD)\bin\Debug\07Greatest Common Divisor (CGD).exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\07Greatest Common Divisor (CGD)\bin\Debug\07Greatest Common Divisor (CGD).pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\07Greatest Common Divisor (CGD)\obj\Debug\07Greatest Common Divisor (CGD).exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\07Greatest Common Divisor (CGD)\obj\Debug\07Greatest Common Divisor (CGD).pdb

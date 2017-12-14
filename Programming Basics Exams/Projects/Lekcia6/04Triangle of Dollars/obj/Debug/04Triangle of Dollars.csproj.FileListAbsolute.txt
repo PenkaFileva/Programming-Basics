@@ -1,0 +1,5 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\04Triangle of Dollars\bin\Debug\04Triangle of Dollars.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\04Triangle of Dollars\bin\Debug\04Triangle of Dollars.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\04Triangle of Dollars\bin\Debug\04Triangle of Dollars.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\04Triangle of Dollars\obj\Debug\04Triangle of Dollars.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\04Triangle of Dollars\obj\Debug\04Triangle of Dollars.pdb

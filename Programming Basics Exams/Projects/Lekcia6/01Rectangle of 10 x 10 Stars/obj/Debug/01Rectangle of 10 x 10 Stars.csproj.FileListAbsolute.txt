@@ -1,0 +1,6 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\01Rectangle of 10 x 10 Stars\bin\Debug\01Rectangle of 10 x 10 Stars.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\01Rectangle of 10 x 10 Stars\bin\Debug\01Rectangle of 10 x 10 Stars.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\01Rectangle of 10 x 10 Stars\bin\Debug\01Rectangle of 10 x 10 Stars.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\01Rectangle of 10 x 10 Stars\obj\Debug\01Rectangle of 10 x 10 Stars.csprojResolveAssemblyReference.cache
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\01Rectangle of 10 x 10 Stars\obj\Debug\01Rectangle of 10 x 10 Stars.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia6\01Rectangle of 10 x 10 Stars\obj\Debug\01Rectangle of 10 x 10 Stars.pdb

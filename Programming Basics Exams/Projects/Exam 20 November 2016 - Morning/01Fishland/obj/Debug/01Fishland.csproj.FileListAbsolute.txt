@@ -1,0 +1,6 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Morning\01Fishland\bin\Debug\01Fishland.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Morning\01Fishland\bin\Debug\01Fishland.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Morning\01Fishland\bin\Debug\01Fishland.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Morning\01Fishland\obj\Debug\01Fishland.csprojResolveAssemblyReference.cache
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Morning\01Fishland\obj\Debug\01Fishland.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Exam 20 November 2016 - Morning\01Fishland\obj\Debug\01Fishland.pdb

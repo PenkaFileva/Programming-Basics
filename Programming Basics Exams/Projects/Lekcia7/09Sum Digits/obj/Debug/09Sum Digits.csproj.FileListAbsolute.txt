@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\09Sum Digits\bin\Debug\09Sum Digits.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\09Sum Digits\bin\Debug\09Sum Digits.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\09Sum Digits\bin\Debug\09Sum Digits.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\09Sum Digits\obj\Debug\09Sum Digits.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\09Sum Digits\obj\Debug\09Sum Digits.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\09Sum Digits\obj\Debug\09Sum Digits.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\7\bin\Debug\7.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\7\bin\Debug\7.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\7\bin\Debug\7.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\7\obj\Debug\7.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\7\obj\Debug\7.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia4\7\obj\Debug\7.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia5\12Equal Pairs\bin\Debug\12Equal Pairs.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia5\12Equal Pairs\bin\Debug\12Equal Pairs.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia5\12Equal Pairs\bin\Debug\12Equal Pairs.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia5\12Equal Pairs\obj\Debug\12Equal Pairs.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia5\12Equal Pairs\obj\Debug\12Equal Pairs.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia5\12Equal Pairs\obj\Debug\12Equal Pairs.pdb

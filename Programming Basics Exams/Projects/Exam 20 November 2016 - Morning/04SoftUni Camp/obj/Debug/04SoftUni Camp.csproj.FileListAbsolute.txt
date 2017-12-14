@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 20 November 2016 - Morning\04SoftUni Camp\bin\Debug\04SoftUni Camp.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 20 November 2016 - Morning\04SoftUni Camp\bin\Debug\04SoftUni Camp.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 20 November 2016 - Morning\04SoftUni Camp\bin\Debug\04SoftUni Camp.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 20 November 2016 - Morning\04SoftUni Camp\obj\Debug\04SoftUni Camp.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 20 November 2016 - Morning\04SoftUni Camp\obj\Debug\04SoftUni Camp.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 20 November 2016 - Morning\04SoftUni Camp\obj\Debug\04SoftUni Camp.pdb

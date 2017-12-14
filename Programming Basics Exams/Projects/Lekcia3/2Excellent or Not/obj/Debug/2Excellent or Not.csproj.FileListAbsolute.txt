@@ -1,0 +1,6 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia3\2Excellent or Not\bin\Debug\2Excellent or Not.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia3\2Excellent or Not\bin\Debug\2Excellent or Not.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia3\2Excellent or Not\bin\Debug\2Excellent or Not.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia3\2Excellent or Not\obj\Debug\2Excellent or Not.csprojResolveAssemblyReference.cache
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia3\2Excellent or Not\obj\Debug\2Excellent or Not.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia3\2Excellent or Not\obj\Debug\2Excellent or Not.pdb

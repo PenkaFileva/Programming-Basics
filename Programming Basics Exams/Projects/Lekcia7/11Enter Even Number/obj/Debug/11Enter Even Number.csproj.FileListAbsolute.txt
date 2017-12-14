@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\11Enter Even Number\bin\Debug\11Enter Even Number.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\11Enter Even Number\bin\Debug\11Enter Even Number.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\11Enter Even Number\bin\Debug\11Enter Even Number.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\11Enter Even Number\obj\Debug\11Enter Even Number.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\11Enter Even Number\obj\Debug\11Enter Even Number.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia7\11Enter Even Number\obj\Debug\11Enter Even Number.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\8Metric Converter\bin\Debug\8Metric Converter.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\8Metric Converter\bin\Debug\8Metric Converter.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\8Metric Converter\bin\Debug\8Metric Converter.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\8Metric Converter\obj\Debug\8Metric Converter.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\8Metric Converter\obj\Debug\8Metric Converter.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Lekcia3\8Metric Converter\obj\Debug\8Metric Converter.csprojResolveAssemblyReference.cache

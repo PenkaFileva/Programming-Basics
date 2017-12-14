@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\04Training Lab\bin\Debug\04Training Lab.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\04Training Lab\bin\Debug\04Training Lab.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\04Training Lab\bin\Debug\04Training Lab.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\04Training Lab\obj\Debug\04Training Lab.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\04Training Lab\obj\Debug\04Training Lab.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exams\04Training Lab\obj\Debug\04Training Lab.pdb

@@ -1,0 +1,6 @@
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\03Truck Driver\bin\Debug\03Truck Driver.exe.config
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\03Truck Driver\bin\Debug\03Truck Driver.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\03Truck Driver\bin\Debug\03Truck Driver.pdb
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\03Truck Driver\obj\Debug\03Truck Driver.csprojResolveAssemblyReference.cache
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\03Truck Driver\obj\Debug\03Truck Driver.exe
+C:\Users\Nasko\Documents\Visual Studio 2017\Projects\Exam 19 March 2017 - Evening\03Truck Driver\obj\Debug\03Truck Driver.pdb

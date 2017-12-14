@@ -1,0 +1,6 @@
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\08Odd Even Sum\bin\Debug\08Odd Even Sum.exe.config
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\08Odd Even Sum\bin\Debug\08Odd Even Sum.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\08Odd Even Sum\bin\Debug\08Odd Even Sum.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\08Odd Even Sum\obj\Debug\08Odd Even Sum.exe
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\08Odd Even Sum\obj\Debug\08Odd Even Sum.pdb
+c:\users\nasko\documents\visual studio 2017\Projects\Lekcia5\08Odd Even Sum\obj\Debug\08Odd Even Sum.csprojResolveAssemblyReference.cache
